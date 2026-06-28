@@ -9,6 +9,12 @@
 
 <br />
 
+<div align="center">
+  <img src=".github/assets/hero.png" width="820" alt="BlitzOS" />
+</div>
+
+<br />
+
 BlitzOS brings the agents you already use, like Claude and Codex, into one place and connects them to your apps so they can work across them. It's a free, open source Mac app that lives in your notch: a quiet pill that unfurls into a full agent chat the moment you need it.
 
 This repo is the source for that app. The easiest way to get BlitzOS is to download it from [blitzos.com](https://blitzos.com) (free, in beta), or build it from source below.
